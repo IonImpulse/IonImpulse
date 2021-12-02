@@ -16,7 +16,7 @@
   
 - 💾 [api.5scheduler.io](https://api.5scheduler.io/fullUpdate), the backend for my scheduling app. Serves course data & saved cloud schedules with super quick response times. Built using Rust and Actix Web.
   
-- 🚩 [FlagFinder.app](https://www.flagfinder.app/), a webapp that allows you to quickly and easily find flags from around the world. Built using 
+- 🚩 [FlagFinder.app](https://www.flagfinder.app/), a webapp that allows you to quickly and easily find flags from around the world. Currently has a database of 1,456 flags. Built using Javascript, HTML, and CSS. 
 
 - ⏰ [Blood on the Clocktower Discord Bot](https://github.com/IonImpulse/blood-on-the-clocktower-discord-bot), a Discord bot that automates the social deduction game "Blood on the Clocktower". Built using Rust and Serenity.
 
