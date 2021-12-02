@@ -8,7 +8,7 @@
 
 - 📚 [5scheduler.io](https://www.5scheduler.io/), my scheduling app (currently in beta) for the Claremont Colleges. Heavily optimized for super-fast, intelligent searching of over 2K courses. Supports custom courses, saving & sharing schedules in the cloud, automatic distance-between-classes calculation, mobile mode, and much more. Fully PWA compliant for installation and offline use. Built using Javascript, HTML, and CSS. 
 
-- 📦 Makerspace Kiosk, a webapp for managing the Harvey Mudd Makerspace. Allows for easy inventory searching, safety quiz validation, and tool/material check-out/check-in. For security reasons the repo is private. Built using Javascript, HTML, and CSS. 
+- 📦 Makerspace Kiosk, a webapp for managing the Harvey Mudd Makerspace, where I work as a Steward. Allows for easy inventory searching, safety quiz validation, and tool/material check-out/check-in. For security reasons the repo is private. Built using Javascript, HTML, and CSS. 
 
 <h3 align="center">🌉 What am I maintaining?</h3>
 
