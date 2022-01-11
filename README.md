@@ -8,6 +8,10 @@
 
 - 📚 [5scheduler.io](https://www.5scheduler.io/), my scheduling app (currently in beta) for the Claremont Colleges. Heavily optimized for super-fast, intelligent searching of over 2K courses. Supports custom courses, saving & sharing schedules in the cloud, automatic distance-between-classes calculation, mobile mode, and much more. Fully PWA compliant for installation and offline use. Built using Javascript, HTML, and CSS. 
 
+- 💠 [HMC Vector Arcade](https://github.com/IonImpulse/hmc-vector-arcade), a project I'm working on with a team of students. Together, we are building a vector arcade machine from the ground up, programming bare metal. I'm currently working on a simulator for the machine to test the game, and will be working on the embedded code once done.
+
+- 🚀 [Rocketry Flight Computers](https://github.com/IonImpulse/MARC-Flight-Computers), a collection of several different projects that will come together to act as a full flight system for the **Mudd Advanced Rocketry Club**. I'm currently working on the flight computer (which controls the rocket mid-flight), the receiver (which receives telemetry data from the rocket), and the ground station desktop app (which takes data from the receiver and displays it in real time).
+
 - 📦 Makerspace Kiosk, a webapp for managing the Harvey Mudd Makerspace, where I work as a Steward. Allows for easy inventory searching, safety quiz validation, and tool/material check-out/check-in. For security reasons the repo is private. Built using Javascript, HTML, and CSS. 
 
 <h3 align="center">🌉 What am I maintaining?</h3>
@@ -34,7 +38,7 @@
 
 - 📅 [Multi Schedule Viewer](https://github.com/IonImpulse/Multi-Schedule-Viewer), a small webapp created while school was still virtual. Made so that my siblings and parents could keep track of everyone else's schedules and not distrub each other while in class. Built using Javascript, HTML, and CSS.
 
-- 🦠 [Covid-19 Calculator](https://ionimpulse.github.io/History-Project-COVID-19-Website/), a website created for my high school history class right after the COVID-19 pandemic started. Using regression models in (this repo)[https://github.com/IonImpulse/History-Project-COVID19], it gives you a risk assessment based on your sex and age. Built using Javascript & Python. Deprecated.
+- 🦠 [Covid-19 Calculator](https://ionimpulse.github.io/History-Project-COVID-19-Website/), a website created for my high school history class right after the COVID-19 pandemic started. Using regression models in [this repo](https://github.com/IonImpulse/History-Project-COVID19), it gives you a risk assessment based on your sex and age. Built using Javascript & Python. Deprecated.
 
 - 🧮 Education Timetable Solver, a program built to schedule class for my high school. Used various scheduling techniques, but being one of my first large projects, it was a bit of a learning experience, and mostly used brute-force solving methods. Built using Python. Deprecated.
 
