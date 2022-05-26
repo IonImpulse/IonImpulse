@@ -16,7 +16,7 @@
 
 <h3 align="center">🌉 What am I maintaining?</h3>
 
-- 🎓 [Canvas Grade Viewer](https://chrome.google.com/webstore/detail/canvas-grade-viewer/ngmeehoammklkokkbgakeadianldjbaj), an extension for Chrome & Firefox that allows you to view your grades & GPA in Canvas, a popular online course management system. Built using Javascript, ~1K weekly users.
+- 🎓 [Canvas Grade Viewer](https://chrome.google.com/webstore/detail/canvas-grade-viewer/ngmeehoammklkokkbgakeadianldjbaj), an extension for Chrome & Firefox that allows you to view your grades & GPA in Canvas, a popular online course management system. Built using Javascript, ~1.5K weekly users.
   
 - 💾 [api.5scheduler.io](https://api.5scheduler.io/fullUpdate), the backend for my scheduling app. Serves course data & saved cloud schedules with super quick response times. Built using Rust and Actix Web.
   
