@@ -2,19 +2,21 @@
 
 <h1 align="center">I'm a CS student at Harvey Mudd, trying to help the world and people around me🌎</h1>
 
-<h2 align="center">I <i>love</i> using <b>Rust, Python, and Javascript.</b> I also have experience in R, C#, C++, Java, and Assembly. </h2>
+<h2 align="center">I <i>love</i> using <b>Rust, Python, and Javascript.</b> I also have experience in R, C#, C++, Java, and Assembly.</h2>
 
 <h3 align="center">🏢 What am I working on?</h3>
 
 - 📚 [5scheduler.io](https://www.5scheduler.io/), my scheduling app (currently in beta) for the Claremont Colleges. Heavily optimized for super-fast, intelligent searching of over 2K courses. Supports custom courses, saving & sharing schedules in the cloud, automatic distance-between-classes calculation, mobile mode, and much more. Fully PWA compliant for installation and offline use. Built using Javascript, HTML, and CSS. 
 
-- 💠 [HMC Vector Arcade](https://github.com/IonImpulse/hmc-vector-arcade), a project I'm working on with a team of students. Together, we are building a vector arcade machine from the ground up, programming bare metal. I'm currently working on a simulator for the machine to test the game, and will be working on the embedded code once done.
+- 🛠 [MAKE](https://make.hmc.edu), a unified management system for Harvey Mudd's Makerspace. MAKE handles the inventory, safety quiz/permission/swipe access, student storage reservations/renewals, tool checkout, and 3D livestreaming/status systems. Additionally, MAKE includes various administrative tools to help Makerspace stewards and HMC staff better manage and engage with the Makerspace. API fuly documented using OpenAPI Version 3, available at the [API help page](https://make.hmc.edu/api/v1/help). Built from the ground up using Rust, JS, HTML, and CSS.
+
+- 🛍 [GroceryList.works](https://grocerylist.works), a super-simple, super-fast grocery list app. No login required, just share a 6-character code and have an instantly online grocery list. View added items from other devices instantly, cross them off as you shop, and delete all items you got with a single button. Built using Rust, JS, HTML, and CSS.
 
 - 🚀 [Rocketry Flight Computers](https://github.com/IonImpulse/MARC-Flight-Computers), a collection of several different projects that will come together to act as a full flight system for the **Mudd Advanced Rocketry Club**. I'm currently working on the flight computer (which controls the rocket mid-flight), the receiver (which receives telemetry data from the rocket), and the ground station desktop app (which takes data from the receiver and displays it in real time).
 
-- 📦 Makerspace Kiosk, a webapp for managing the Harvey Mudd Makerspace, where I work as a Steward. Allows for easy inventory searching, safety quiz validation, and tool/material check-out/check-in. For security reasons the repo is private. Built using Javascript, HTML, and CSS. 
-
 <h3 align="center">🌉 What am I maintaining?</h3>
+
+- 💠 [HMC Vector Arcade](https://github.com/IonImpulse/hmc-vector-arcade), a project I'm working on with a team of students. Together, we are building a vector arcade machine from the ground up, programming bare metal. I'm currently working on a simulator for the machine to test the game, and will be working on the embedded code once done.
 
 - 🎓 [Canvas Grade Viewer](https://chrome.google.com/webstore/detail/canvas-grade-viewer/ngmeehoammklkokkbgakeadianldjbaj), an extension for Chrome & Firefox that allows you to view your grades & GPA in Canvas, a popular online course management system. Built using Javascript, ~1.5K weekly users.
   
@@ -23,6 +25,7 @@
 - 🚩 [FlagFinder.app](https://www.flagfinder.app/), a webapp that allows you to quickly and easily find flags from around the world. Currently has a database of 1,456 flags. Built using Javascript, HTML, and CSS. 
 
 - ⏰ [Blood on the Clocktower Discord Bot](https://github.com/IonImpulse/blood-on-the-clocktower-discord-bot), a Discord bot that automates the social deduction game "Blood on the Clocktower". Built using Rust and Serenity.
+
 
 <h3 align="center">📝 What have I created?</h3>
 
