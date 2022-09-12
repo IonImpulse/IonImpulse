@@ -6,9 +6,11 @@
 
 <h3 align="center">🏢 What am I working on?</h3>
 
-- 📚 [5scheduler.io](https://www.5scheduler.io/), my scheduling app (currently in beta) for the Claremont Colleges. Heavily optimized for super-fast, intelligent searching of over 2K courses. Supports custom courses, saving & sharing schedules in the cloud, automatic distance-between-classes calculation, mobile mode, and much more. Fully PWA compliant for installation and offline use. Built using Javascript, HTML, and CSS. 
+- 📚 [5scheduler.io](https://www.5scheduler.io/), my scheduling app (currently in beta) for the Claremont Colleges. Heavily optimized for super-fast, intelligent searching of over 2K courses. Supports custom courses, saving & sharing schedules in the cloud, automatic distance-between-classes calculation, mobile mode, and much more. Fully PWA compliant for installation and offline use. Built using JS, HTML, and CSS. 
 
 - 🛠 [MAKE](https://make.hmc.edu), a unified management system for Harvey Mudd's Makerspace. MAKE handles the inventory, safety quiz/permission/swipe access, student storage reservations/renewals, tool checkout, and 3D livestreaming/status systems. Additionally, MAKE includes various administrative tools to help Makerspace stewards and HMC staff better manage and engage with the Makerspace. API fully documented using OpenAPI Version 3, available at the [API help page](https://make.hmc.edu/api/v1/help). Built from the ground up using Rust, JS, HTML, and CSS.
+
+- 🚩 [FlagFinder.app](https://www.flagfinder.app/), a webapp that allows for searching through one of the world's largest collections (1,400+) of manually tagged flags. Has a robust searching and filtering system, and a fun game flag guessing game called OVERLAY! Built using JS, HTML, and CSS. Site fully redone 9/2022.
 
 - 🛍 [GroceryList.works](https://grocerylist.works), a super-simple, super-fast grocery list app. No login required, just share a 6-character code and have an instantly online grocery list. View added items from other devices instantly, cross them off as you shop, and delete all items you got with a single button. Built using Rust, JS, HTML, and CSS.
 
@@ -21,8 +23,6 @@
 - 🎓 [Canvas Grade Viewer](https://chrome.google.com/webstore/detail/canvas-grade-viewer/ngmeehoammklkokkbgakeadianldjbaj), an extension for Chrome & Firefox that allows you to view your grades & GPA in Canvas, a popular online course management system. Built using Javascript, ~1.5K weekly users.
   
 - 💾 [api.5scheduler.io](https://api.5scheduler.io/fullUpdate), the backend for my scheduling app. Serves course data & saved cloud schedules with super quick response times. Built using Rust and Actix Web.
-  
-- 🚩 [FlagFinder.app](https://www.flagfinder.app/), a webapp that allows you to quickly and easily find flags from around the world. Currently has a database of 1,456 flags. Built using Javascript, HTML, and CSS. 
 
 - ⏰ [Blood on the Clocktower Discord Bot](https://github.com/IonImpulse/blood-on-the-clocktower-discord-bot), a Discord bot that automates the social deduction game "Blood on the Clocktower". Built using Rust and Serenity.
 
@@ -49,4 +49,4 @@
 
 ![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IonImpulse&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IonImpulse&layout=compact&theme=github_dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IonImpulse&layout=compact&theme=github_dark&hide=html)
