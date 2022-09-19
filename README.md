@@ -15,7 +15,12 @@
 - 🚩 [FlagFinder.app](https://www.flagfinder.app/), a webapp that allows for searching through one of the world's largest collections (1,400+) of manually tagged flags. Has a robust searching and filtering system, and a fun game flag guessing game called OVERLAY! Built using JS, HTML, and CSS. Site fully redone 9/2022.
 ![Animation](https://user-images.githubusercontent.com/24578597/190281048-3b0c0c42-e8ac-4346-9e40-049dd70aee63.gif)
 
+- 🍽 [5menu.io](https://5menu.io), my menu & balance checking app for the Claremont Colleges. Has the ability to check balances of Meals Swipes, Claremont Cash, and Flex. Can see the menus of dining halls 7 days in advance. Built using Rust, JS, HTML, and CSS.
+
+![menu](https://user-images.githubusercontent.com/24578597/191110827-f20f8e66-9108-48be-aef8-4eac1ca60489.gif)
+
 - 🛍 [GroceryList.works](https://grocerylist.works), a super-simple, super-fast grocery list app. No login required, just share a 6-character code and have an instantly online grocery list. View added items from other devices instantly, cross them off as you shop, and delete all items you got with a single button. Built using Rust, JS, HTML, and CSS.
+
 
 - 🚀 [Rocketry Flight Computers](https://github.com/IonImpulse/MARC-Flight-Computers), a collection of several different projects that will come together to act as a full flight system for the **Mudd Advanced Rocketry Club**. I'm currently working on the flight computer (which controls the rocket mid-flight), the receiver (which receives telemetry data from the rocket), and the ground station desktop app (which takes data from the receiver and displays it in real time).
 
