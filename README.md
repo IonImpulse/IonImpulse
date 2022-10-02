@@ -37,6 +37,9 @@
 
 <h3 align="center">📝 What have I created?</h3>
 
+- 🔍 [ISO: In Search Of](https://github.com/IonImpulse/ISO), an app made during the two-day HackMIT 2022 Hackathon. ISO is a centralized hub for all ISO (In Search Of) and OSI (Reverse ISO) requests within a 2 mile radius, with a login based on phone verification. Users can post ISOs for a certain amount of imaginary currency we call Karma, and they can earn Karma by posting OSIs or fulfilling others’ ISOs. Users start off with a limited amount of Karma, and they spend it by posting ISOs. Built using React Native, Twilio, and Rust.
+
+
 - 💽 [HMMM-RS](https://github.com/IonImpulse/hmmm_rs), an full implementation of Harvey Mudd's custom assembly language. Can do compilation, decompilation, simulation, debugging, and auto-grading of HMMM programs. Built using Rust (and colorful terminal text).
 
 - 💬 [Discord Stats](https://github.com/IonImpulse/discord-statistics), an analyzer for downloaded Discord messages, originally built for my friend's Discord server. Supports various statistics, including word frequency, total messages/words/characters/questions/attachements sent, vocabulary used, and more. Exports individualized .csv files for each user, a main server stats file, and a plethora of graphs. Can scrape and archive images and attachments. Uses multithreading to efficiently process 100K's of messages. Built using Python, rewritten and improved in Rust.
