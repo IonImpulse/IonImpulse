@@ -17,10 +17,6 @@
 
 - 🍽 [5menu.io](https://5menu.io), my menu & balance checking app for the Claremont Colleges. Has the ability to check balances of Meals Swipes, Claremont Cash, and Flex. Can see the menus of dining halls 7 days in advance. Built using Rust, JS, HTML, and CSS.
 
-![menu](https://user-images.githubusercontent.com/24578597/191110827-f20f8e66-9108-48be-aef8-4eac1ca60489.gif)
-
-- 🛍 [GroceryList.works](https://grocerylist.works), a super-simple, super-fast grocery list app. No login required, just share a 6-character code and have an instantly online grocery list. View added items from other devices instantly, cross them off as you shop, and delete all items you got with a single button. Built using Rust, JS, HTML, and CSS.
-
 
 - 🚀 [Rocketry Flight Computers](https://github.com/IonImpulse/MARC-Flight-Computers), a collection of several different projects that will come together to act as a full flight system for the **Mudd Advanced Rocketry Club**. I'm currently working on the flight computer (which controls the rocket mid-flight), the receiver (which receives telemetry data from the rocket), and the ground station desktop app (which takes data from the receiver and displays it in real time).
 
@@ -37,8 +33,9 @@
 
 <h3 align="center">📝 What have I created?</h3>
 
-- 🔍 [ISO: In Search Of](https://github.com/IonImpulse/ISO), an app made during the two-day HackMIT 2022 Hackathon. ISO is a centralized hub for all ISO (In Search Of) and OSI (Reverse ISO) requests within a 2 mile radius, with a login based on phone verification. Users can post ISOs for a certain amount of imaginary currency we call Karma, and they can earn Karma by posting OSIs or fulfilling others’ ISOs. Users start off with a limited amount of Karma, and they spend it by posting ISOs. Built using React Native, Twilio, and Rust.
+- 🛍 [GroceryList.works](https://grocerylist.works), a super-simple, super-fast grocery list app. No login required, just share a 6-character code and have an instantly online grocery list. View added items from other devices instantly, cross them off as you shop, and delete all items you got with a single button. Built using Rust, JS, HTML, and CSS.
 
+- 🔍 [ISO: In Search Of](https://github.com/IonImpulse/ISO), an app made during the two-day HackMIT 2022 Hackathon. ISO is a centralized hub for all ISO (In Search Of) and OSI (Reverse ISO) requests within a 2 mile radius, with a login based on phone verification. Users can post ISOs for a certain amount of imaginary currency we call Karma, and they can earn Karma by posting OSIs or fulfilling others’ ISOs. Users start off with a limited amount of Karma, and they spend it by posting ISOs. Built using React Native, Twilio, and Rust.
 
 - 💽 [HMMM-RS](https://github.com/IonImpulse/hmmm_rs), an full implementation of Harvey Mudd's custom assembly language. Can do compilation, decompilation, simulation, debugging, and auto-grading of HMMM programs. Built using Rust (and colorful terminal text).
 
