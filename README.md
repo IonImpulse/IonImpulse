@@ -20,6 +20,8 @@
 
 - 🚀 [Rocketry Flight Computers](https://github.com/IonImpulse/MARC-Flight-Computers), a collection of several different projects that will come together to act as a full flight system for the **Mudd Advanced Rocketry Club**. I'm currently working on the flight computer (which controls the rocket mid-flight), the receiver (which receives telemetry data from the rocket), and the ground station desktop app (which takes data from the receiver and displays it in real time).
 
+- 🖨 [Makerspace LFP](https://github.com/Stejorin/MakerspaceLFPTool), a utility program to make printing on the Epson P8000 large format printer much easier and more user-friendly. It provides a clean web interface to intake and setup prints, and edits the binary config files for the printer to communicate exact setup parameters. Built using Python, C#, JS, HTML, and CSS.
+
 <h3 align="center">🌉 What am I maintaining?</h3>
 
 - 💠 [HMC Vector Arcade](https://github.com/IonImpulse/hmc-vector-arcade), a project I'm working on with a team of students. Together, we are building a vector arcade machine from the ground up, programming bare metal. I'm currently working on a simulator for the machine to test the game, and will be working on the embedded code once done.
