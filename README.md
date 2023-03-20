@@ -6,8 +6,9 @@
 
 <h3 align="center">🏢 What am I working on?</h3>
 
-- 📚 [5scheduler.io](https://www.5scheduler.io/), my scheduling app for the Claremont Colleges, serving over 15 million requests a month. Heavily optimized for super-fast, intelligent searching of over 2K courses. Supports custom courses, saving & sharing schedules in the cloud, automatic distance-between-classes calculation, mobile mode, and much more. Fully PWA compliant for installation and offline use. Built using JS, HTML, and CSS. 
-![5scheduler](https://user-images.githubusercontent.com/24578597/190280836-b4ca260e-668b-4370-86b8-d7a0b0948cff.gif)
+- 📚 [5scheduler.io](https://www.5scheduler.io/), my scheduling app for the Claremont Colleges, serving over 15 million requests a month. Heavily optimized for super-fast, intelligent searching of over 2K courses. Supports custom courses, saving & sharing schedules in the cloud, automatic distance-between-classes calculation, mobile mode, and much more. Fully PWA compliant for installation and offline use. Built using JS, HTML, and CSS.
+![5scheduler](https://user-images.githubusercontent.com/24578597/226305161-5e1c2d01-db7c-43f5-b6e0-92a638dedbd8.gif)
+
 
 - 🛠 [MAKE](https://make.hmc.edu), a unified management system for Harvey Mudd's Makerspace. MAKE handles the inventory, safety quiz/permission/swipe access, student storage reservations/renewals, tool checkout, and 3D livestreaming/status systems. Additionally, MAKE includes various administrative tools to help Makerspace stewards and HMC staff better manage and engage with the Makerspace. API fully documented using OpenAPI Version 3, available at the [API help page](https://make.hmc.edu/api/v1/help). Built from the ground up using Rust, JS, HTML, and CSS.
 ![make](https://user-images.githubusercontent.com/24578597/190281019-21fd8687-1ebc-4b1c-a110-316ab496dea9.gif)
