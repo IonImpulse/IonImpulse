@@ -10,7 +10,7 @@
 ![5scheduler](https://user-images.githubusercontent.com/24578597/226305161-5e1c2d01-db7c-43f5-b6e0-92a638dedbd8.gif)
 
 
-- 🛠 [MAKE](https://make.hmc.edu), a unified management system for Harvey Mudd's Makerspace. MAKE handles the inventory, safety quiz/permission/swipe access, student storage reservations/renewals, tool checkout, and 3D livestreaming/status systems. Additionally, MAKE includes various administrative tools to help Makerspace stewards and HMC staff better manage and engage with the Makerspace. API fully documented using OpenAPI Version 3, available at the [API help page](https://make.hmc.edu/api/v1/help). Built from the ground up using Rust, JS, HTML, and CSS.
+- 🛠 [MAKE](https://make.hmc.edu), a unified management system for Harvey Mudd's Makerspace. MAKE handles the inventory, safety quiz/permission/swipe access, student storage reservations/renewals, tool checkout, and 3D livestreaming/status systems. Additionally, MAKE includes various administrative tools to help Makerspace stewards and HMC staff better manage and engage with the Makerspace. Built from the ground up using Rust, JS, HTML, and CSS.
 ![MAKE](https://user-images.githubusercontent.com/24578597/226307054-8a6b0dd0-9b3d-4798-83e2-7a3ad67b3831.gif)
 
 
