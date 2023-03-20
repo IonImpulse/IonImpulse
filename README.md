@@ -11,7 +11,8 @@
 
 
 - 🛠 [MAKE](https://make.hmc.edu), a unified management system for Harvey Mudd's Makerspace. MAKE handles the inventory, safety quiz/permission/swipe access, student storage reservations/renewals, tool checkout, and 3D livestreaming/status systems. Additionally, MAKE includes various administrative tools to help Makerspace stewards and HMC staff better manage and engage with the Makerspace. API fully documented using OpenAPI Version 3, available at the [API help page](https://make.hmc.edu/api/v1/help). Built from the ground up using Rust, JS, HTML, and CSS.
-![make](https://user-images.githubusercontent.com/24578597/190281019-21fd8687-1ebc-4b1c-a110-316ab496dea9.gif)
+![MAKE](https://user-images.githubusercontent.com/24578597/226307054-8a6b0dd0-9b3d-4798-83e2-7a3ad67b3831.gif)
+
 
 - 🚩 [FlagFinder.app](https://www.flagfinder.app/), a webapp that allows for searching through one of the world's largest collections (1,400+) of manually tagged flags. Has a robust searching and filtering system, and a fun game flag guessing game called OVERLAY! Built using JS, HTML, and CSS. Site fully redone 9/2022.
 ![Animation](https://user-images.githubusercontent.com/24578597/190281048-3b0c0c42-e8ac-4346-9e40-049dd70aee63.gif)
