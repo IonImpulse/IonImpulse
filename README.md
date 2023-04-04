@@ -9,18 +9,16 @@
 - 📚 [5scheduler.io](https://www.5scheduler.io/), my scheduling app for the Claremont Colleges, serving over 15 million requests a month. Heavily optimized for super-fast, intelligent searching of over 2K courses. Supports custom courses, saving & sharing schedules in the cloud, automatic distance-between-classes calculation, mobile mode, and much more. Fully PWA compliant for installation and offline use. Built using JS, HTML, and CSS.
 ![5scheduler](https://user-images.githubusercontent.com/24578597/226305161-5e1c2d01-db7c-43f5-b6e0-92a638dedbd8.gif)
 
-
 - 🛠 [MAKE](https://make.hmc.edu), a unified management system for Harvey Mudd's Makerspace. MAKE handles the inventory, safety quiz/permission/swipe access, student storage reservations/renewals, tool checkout, and 3D livestreaming/status systems. Additionally, MAKE includes various administrative tools to help Makerspace stewards and HMC staff better manage and engage with the Makerspace. Built from the ground up using Rust, JS, HTML, and CSS.
 ![MAKE](https://user-images.githubusercontent.com/24578597/226307054-8a6b0dd0-9b3d-4798-83e2-7a3ad67b3831.gif)
-
 
 - 🚩 [FlagFinder.app](https://www.flagfinder.app/), a webapp that allows for searching through one of the world's largest collections (1,400+) of manually tagged flags. Has a robust searching and filtering system, and a fun game flag guessing game called OVERLAY! Built using JS, HTML, and CSS. Site fully redone 9/2022.
 ![Animation](https://user-images.githubusercontent.com/24578597/190281048-3b0c0c42-e8ac-4346-9e40-049dd70aee63.gif)
 
 - 🍽 [5menu.io](https://5menu.io), my menu & balance checking app for the Claremont Colleges. Has the ability to check balances of Meals Swipes, Claremont Cash, and Flex. Can see the menus of dining halls 7 days in advance. Built using Rust, JS, HTML, and CSS.
 
+- 🛍 [GroceryList.works](https://grocerylist.works), a super-simple, super-fast grocery list app. No login required, just share a 6-character code and have an instantly online grocery list. View added items from other devices instantly, cross them off as you shop, and delete all items you got with a single button. Built using Rust, JS, HTML, and CSS.
 
-- 🚀 [Rocketry Flight Computers](https://github.com/IonImpulse/MARC-Flight-Computers), a collection of several different projects that will come together to act as a full flight system for the **Mudd Advanced Rocketry Club**. I'm currently working on the flight computer (which controls the rocket mid-flight), the receiver (which receives telemetry data from the rocket), and the ground station desktop app (which takes data from the receiver and displays it in real time).
 
 - 🖨 [Makerspace LFP](https://github.com/Stejorin/MakerspaceLFPTool), a utility program to make printing on the Epson P8000 large format printer much easier and more user-friendly. It provides a clean web interface to intake and setup prints, and edits the binary config files for the printer to communicate exact setup parameters. Built using Python, C#, JS, HTML, and CSS.
 
@@ -37,7 +35,7 @@
 
 <h3 align="center">📝 What have I created?</h3>
 
-- 🛍 [GroceryList.works](https://grocerylist.works), a super-simple, super-fast grocery list app. No login required, just share a 6-character code and have an instantly online grocery list. View added items from other devices instantly, cross them off as you shop, and delete all items you got with a single button. Built using Rust, JS, HTML, and CSS.
+- 🚀 [Rocketry Flight Computers](https://github.com/IonImpulse/MARC-Flight-Computers), a collection of several different projects that will come together to act as a full flight system for the **Mudd Advanced Rocketry Club**. I'm currently working on the flight computer (which controls the rocket mid-flight), the receiver (which receives telemetry data from the rocket), and the ground station desktop app (which takes data from the receiver and displays it in real time).
 
 - 🔍 [ISO: In Search Of](https://github.com/IonImpulse/ISO), an app made during the two-day HackMIT 2022 Hackathon. ISO is a centralized hub for all ISO (In Search Of) and OSI (Reverse ISO) requests within a 2 mile radius, with a login based on phone verification. Users can post ISOs for a certain amount of imaginary currency we call Karma, and they can earn Karma by posting OSIs or fulfilling others’ ISOs. Users start off with a limited amount of Karma, and they spend it by posting ISOs. Built using React Native, Twilio, and Rust.
 
