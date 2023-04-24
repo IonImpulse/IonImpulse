@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm a CS student at Harvey Mudd, trying to help the world and people around me🌎</h1>
 
-<h2 align="center">I <i>love</i> using <b>Rust, Python, and Javascript.</b> I also have experience in R, C#, C++, Java, and Assembly.</h2>
+<h2 align="center">I <i>love</i> using <b>Rust, Python, and Javascript.</b> I also have experience in R, C#, C++, C, Java, and Assembly.</h2>
 
 <h3 align="center">🏢 What am I working on?</h3>
 
@@ -15,9 +15,11 @@
 - 🚩 [FlagFinder.app](https://www.flagfinder.app/), a webapp that allows for searching through one of the world's largest collections (1,400+) of manually tagged flags. Has a robust searching and filtering system, and a fun game flag guessing game called OVERLAY! Built using JS, HTML, and CSS. Site fully redone 9/2022.
 ![Animation](https://user-images.githubusercontent.com/24578597/190281048-3b0c0c42-e8ac-4346-9e40-049dd70aee63.gif)
 
-- 🍽 [5menu.io](https://5menu.io), my menu & balance checking app for the Claremont Colleges. Has the ability to check balances of Meals Swipes, Claremont Cash, and Flex. Can see the menus of dining halls 7 days in advance. Built using Rust, JS, HTML, and CSS.
+- 🍽 [5menu.io](https://5menu.io), my menu & balance checking app for the Claremont Colleges. Has the ability to check balances of Meals Swipes, Claremont Cash, and Flex. Can see the menus of dining halls 7 days in advance. Additionally, it can optimize your remaining Flex (college money) by solving a subset-sum problem. Built using Rust, JS, HTML, and CSS.
 
 - 🛍 [GroceryList.works](https://grocerylist.works), a super-simple, super-fast grocery list app. No login required, just share a 6-character code and have an instantly online grocery list. View added items from other devices instantly, cross them off as you shop, and delete all items you got with a single button. Built using Rust, JS, HTML, and CSS.
+
+- 🍹[Overflow.bar](https://overflow.bar), a sleek & powerful cocktail generator. Using data from 1000+ real cocktails, ingredients are put on a graph and weighted by their likelyhood to work well together. Once a base ingredient is picked, a drink is generated with 1-5 other ingredients, with an AI-generated name and image. Built using Python (FastAPI), JS, HTML, and CSS.
 
 
 - 🖨 [Makerspace LFP](https://github.com/Stejorin/MakerspaceLFPTool), a utility program to make printing on the Epson P8000 large format printer much easier and more user-friendly. It provides a clean web interface to intake and setup prints, and edits the binary config files for the printer to communicate exact setup parameters. Built using Python, C#, JS, HTML, and CSS.
@@ -45,7 +47,7 @@
 
 - 🧠 [Brain Box Alpha](https://github.com/IonImpulse/Brain-Box-Alpha), my senior project for my high school. Using a neural network trained on my classmates' essays throughout their high school years, it displays a *real* essay snippet side-by-side a *generated* essay snippet on a E-Ink display every 10 seconds *forever*. Built using Python & CircuitPython.
 
-- 🤖 [Among Us Tasker](https://github.com/IonImpulse/Among-Us-Tasker), a program that automatically completes tasks in the game Among Us, and keeps track of task that have been done. Built using Python & OpenCV. Deprecated.
+- 🤖 [Among Us Tasker](https://github.com/IonImpulse/Among-Us-Tasker), a program that automatically completes 40+ tasks in the game Among Us, and keeps track of task that have been done. After pressing space to open a task, you can press "f" to automatically determine which task is present & complete it. Built using Python & OpenCV. Deprecated.
 
 - 🎌 [Flag Architect](https://github.com/IonImpulse/flag-architect), my final project for CS3 in high school. Designed, programmed, and shipped in a week, it allows you to create flags using simple shapes and save/load them to/from a .flag file with full serialization. Built using Rust & Sciter. 
 
