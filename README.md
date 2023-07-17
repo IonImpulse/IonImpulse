@@ -2,9 +2,12 @@
 
 <h1 align="center">I'm a CS student at Harvey Mudd, trying to help the world and people around me🌎</h1>
 
-<h2 align="center">I <i>love</i> using <b>Rust, Python, and Javascript.</b> I also have experience in R, C#, C++, C, Java, and Assembly.</h2>
+<p>I use Rust, Python, and Javascript extensively. I also know R, C#, C++, C, Java, and Assembly</p>
 
-<h3 align="center">🏢 What am I working on?</h3>
+| [What am I working on?](#what-am-i-working-on) | [What am I maintaining?](#what-am-i-maintaining) | [What have I created?](#what-have-i-created) | [How do I use GitHub?](#how-do-i-use-github) |
+| --- | --- | --- | --- |
+
+<h3 align="center" id="what-am-i-working-on">🏢 What am I working on?</h3>
 
 - 📚 [5scheduler.io](https://www.5scheduler.io/), my scheduling app for the Claremont Colleges, serving over 15 million requests a month. Heavily optimized for super-fast, intelligent searching of over 2K courses. Supports custom courses, saving & sharing schedules in the cloud, automatic distance-between-classes calculation, mobile mode, and much more. Fully PWA compliant for installation and offline use. Built using JS, HTML, and CSS.
 ![5scheduler](https://user-images.githubusercontent.com/24578597/226305161-5e1c2d01-db7c-43f5-b6e0-92a638dedbd8.gif)
@@ -24,7 +27,7 @@
 
 - 🖨 [Makerspace LFP](https://github.com/Stejorin/MakerspaceLFPTool), a utility program to make printing on the Epson P8000 large format printer much easier and more user-friendly. It provides a clean web interface to intake and setup prints, and edits the binary config files for the printer to communicate exact setup parameters. Built using Python, C#, JS, HTML, and CSS.
 
-<h3 align="center">🌉 What am I maintaining?</h3>
+<h3 align="center" id="what-am-i-maintaining">🌉 What am I maintaining?</h3>
 
 - 💠 [HMC Vector Arcade](https://github.com/IonImpulse/hmc-vector-arcade), a project I'm working on with a team of students. Together, we are building a vector arcade machine from the ground up, programming bare metal. I'm currently working on a simulator for the machine to test the game, and will be working on the embedded code once done.
 
@@ -35,7 +38,7 @@
 - ⏰ [Blood on the Clocktower Discord Bot](https://github.com/IonImpulse/blood-on-the-clocktower-discord-bot), a Discord bot that automates the social deduction game "Blood on the Clocktower". Built using Rust and Serenity.
 
 
-<h3 align="center">📝 What have I created?</h3>
+<h3 align="center" id="what-have-i-created">📝 What have I created?</h3>
 
 - 🚀 [Rocketry Flight Computers](https://github.com/IonImpulse/MARC-Flight-Computers), a collection of several different projects that will come together to act as a full flight system for the **Mudd Advanced Rocketry Club**. I'm currently working on the flight computer (which controls the rocket mid-flight), the receiver (which receives telemetry data from the rocket), and the ground station desktop app (which takes data from the receiver and displays it in real time).
 
