@@ -1,11 +1,19 @@
-<h2 align="center">Hello, I'm Ethan!</h2>
+<h1 align="center">Hello, I'm Ethan!</h1>
 
-<h1 align="center">I'm a CS student at Harvey Mudd, trying to help the world and people around me🌎</h1>
+<h3 align="center">I'm a CS student at Harvey Mudd College, interning at Tesla, and trying to make the world a better place!</h3>
 
-<p>I use Rust, Python, and Javascript extensively. I also know R, C#, C++, C, Java, and Assembly</p>
+<p align="center">
+  I extensively use Rust, Python, and Javascript. I am also proficient in R, C#, C++, C, Java, and Assembly.
+</p>
 
-| [What am I working on?](#what-am-i-working-on) | [What am I maintaining?](#what-am-i-maintaining) | [What have I created?](#what-have-i-created) | [How do I use GitHub?](#how-do-i-use-github) |
-| --- | --- | --- | --- |
+<br>
+<p align="center">
+  <a href="#what-am-i-working-on"><b>What am I working on?</b></a> &nbsp; | &nbsp;
+  <a href="#what-am-i-maintaining"><b>What am I maintaining?</b></a> &nbsp; | &nbsp;
+  <a href="#what-have-i-created"><b>What have I created?</b></a> &nbsp; | &nbsp;
+  <a href="#how-do-i-use-github"><b>How do I use GitHub?</b></a>
+</p>
+<br>
 
 <h3 align="center" id="what-am-i-working-on">🏢 What am I working on?</h3>
 
