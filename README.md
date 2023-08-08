@@ -26,18 +26,17 @@
 - 🚩 [FlagFinder.app](https://www.flagfinder.app/), a webapp that allows for searching through one of the world's largest collections (1,400+) of manually tagged flags. Has a robust searching and filtering system, and a fun game flag guessing game called OVERLAY! Built using JS, HTML, and CSS. Site fully redone 9/2022.
 ![Animation](https://user-images.githubusercontent.com/24578597/190281048-3b0c0c42-e8ac-4346-9e40-049dd70aee63.gif)
 
+- 🎧 [19kHz.info](https://19khz.info), an EDM music calandar for the United States. Catalogs hundreds of events throughout different regions of the US, with a pethora of filters to narrow down events! Built with React and Python. WIP
+
 - 🍽 [5menu.io](https://5menu.io), my menu & balance checking app for the Claremont Colleges. Has the ability to check balances of Meals Swipes, Claremont Cash, and Flex. Can see the menus of dining halls 7 days in advance. Additionally, it can optimize your remaining Flex (college money) by solving a subset-sum problem. Built using Rust, JS, HTML, and CSS.
-
-- 🛍 [GroceryList.works](https://grocerylist.works), a super-simple, super-fast grocery list app. No login required, just share a 6-character code and have an instantly online grocery list. View added items from other devices instantly, cross them off as you shop, and delete all items you got with a single button. Built using Rust, JS, HTML, and CSS.
-
-- 🍹[Overflow.bar](https://overflow.bar), a sleek & powerful cocktail generator. Using data from 1000+ real cocktails, ingredients are put on a graph and weighted by their likelyhood to work well together. Once a base ingredient is picked, a drink is generated with 1-5 other ingredients, with an AI-generated name and image. Built using Python (FastAPI), JS, HTML, and CSS.
-
 
 - 🖨 [Makerspace LFP](https://github.com/Stejorin/MakerspaceLFPTool), a utility program to make printing on the Epson P8000 large format printer much easier and more user-friendly. It provides a clean web interface to intake and setup prints, and edits the binary config files for the printer to communicate exact setup parameters. Built using Python, C#, JS, HTML, and CSS.
 
 <h3 align="center" id="what-am-i-maintaining">🌉 What am I maintaining?</h3>
 
-- 💠 [HMC Vector Arcade](https://github.com/IonImpulse/hmc-vector-arcade), a project I'm working on with a team of students. Together, we are building a vector arcade machine from the ground up, programming bare metal. I'm currently working on a simulator for the machine to test the game, and will be working on the embedded code once done.
+- 🛍 [GroceryList.works](https://grocerylist.works), a super-simple, super-fast grocery list app. No login required, just share a 6-character code and have an instantly online grocery list. View added items from other devices instantly, cross them off as you shop, and delete all items you got with a single button. Built using Rust, JS, HTML, and CSS.
+
+- 🍹[Overflow.bar](https://overflow.bar), a sleek & powerful cocktail generator. Using data from 1000+ real cocktails, ingredients are put on a graph and weighted by their likelyhood to work well together. Once a base ingredient is picked, a drink is generated with 1-5 other ingredients, with an AI-generated name and image. Built using Python (FastAPI), JS, HTML, and CSS.
 
 - 🎓 [Canvas Grade Viewer](https://chrome.google.com/webstore/detail/canvas-grade-viewer/ngmeehoammklkokkbgakeadianldjbaj), an extension for Chrome & Firefox that allows you to view your grades & GPA in Canvas, a popular online course management system. Built using Javascript, ~1.5K weekly users.
   
@@ -47,6 +46,8 @@
 
 
 <h3 align="center" id="what-have-i-created">📝 What have I created?</h3>
+
+- 💠 [HMC Vector Arcade](https://github.com/IonImpulse/hmc-vector-arcade), a project I'm working on with a team of students. Together, we are building a vector arcade machine from the ground up, programming bare metal. I'm currently working on a simulator for the machine to test the game, and will be working on the embedded code once done.
 
 - 🚀 [Rocketry Flight Computers](https://github.com/IonImpulse/MARC-Flight-Computers), a collection of several different projects that will come together to act as a full flight system for the **Mudd Advanced Rocketry Club**. I'm currently working on the flight computer (which controls the rocket mid-flight), the receiver (which receives telemetry data from the rocket), and the ground station desktop app (which takes data from the receiver and displays it in real time).
 
