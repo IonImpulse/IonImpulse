@@ -47,6 +47,12 @@
 
 <h3 align="center" id="what-have-i-created">📝 What have I created?</h3>
 
+- 🪙 [ARTEMIS](https://github.com/IonImpulse/ARTEMIS-HackDavis-2023), a webapp made during the two-day HackDavis 2023 Hackathon. ARTEMIS is a inventory and POS management solution for a sustainable reuse store that is on the UC Davis campus.
+
+- 🍉 [5C Dining Hall Simulator](https://github.com/IonImpulse/fivec-dining-hall-simulator), a project to simulate traffic between the dining halls at the Claremont Colleges. Full visualizations show the flow of traffic to and from classes and dining halls, with plenty of statistics avaialble to export.
+
+- 🧩 [Alien Wordle](https://github.com/IonImpulse/alien-wordle), a puzzle made for the 2022 escape room put on by MuddEscapes. Using a cryptic keypad, users will have to deduce their way through a series of wordle inspired puzzles, trying to get the 
+
 - 💠 [HMC Vector Arcade](https://github.com/IonImpulse/hmc-vector-arcade), a project I'm working on with a team of students. Together, we are building a vector arcade machine from the ground up, programming bare metal. I'm currently working on a simulator for the machine to test the game, and will be working on the embedded code once done.
 
 - 🚀 [Rocketry Flight Computers](https://github.com/IonImpulse/MARC-Flight-Computers), a collection of several different projects that will come together to act as a full flight system for the **Mudd Advanced Rocketry Club**. I'm currently working on the flight computer (which controls the rocket mid-flight), the receiver (which receives telemetry data from the rocket), and the ground station desktop app (which takes data from the receiver and displays it in real time).
