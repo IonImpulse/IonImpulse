@@ -47,6 +47,10 @@
 
 <h3 align="center" id="what-have-i-created">📝 What have I created?</h3>
 
+- 💡 [Subsurface Scattering Raytracer](https://github.com/IonImpulse/SubsurfaceScattering), my final project for a computer graphics course. This raytracers takes in an STL file, positions, lights, & scales it properly, then renders out a PNG using raytracing and subsurface scattering. It leverages JIT, parallelization, and various rendering techniques to speed up rendering.
+
+- 🎶 [Lyrics Collage](https://github.com/IonImpulse/lyrics-collage), my final project for an art class. It takes any phrase or sentence and tries to find songs with those words in their lyrics. The program then downloads the songs & timesynced lyrics, cuts up the songs, and splices the resulting MP3 files together to play the words requested.
+
 - 🪙 [ARTEMIS](https://github.com/IonImpulse/ARTEMIS-HackDavis-2023), a webapp made during the two-day HackDavis 2023 Hackathon. ARTEMIS is a inventory and POS management solution for a sustainable reuse store that is on the UC Davis campus.
 
 - 🍉 [5C Dining Hall Simulator](https://github.com/IonImpulse/fivec-dining-hall-simulator), a project to simulate traffic between the dining halls at the Claremont Colleges. Full visualizations show the flow of traffic to and from classes and dining halls, with plenty of statistics avaialble to export.
