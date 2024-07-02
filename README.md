@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Ethan!</h1>
 
-<h3 align="center">I'm a CS student at Harvey Mudd College, have interned at Tesla, and am trying to make the world a better place!</h3>
+<h3 align="center">I'm a CS student at Harvey Mudd College, have interned at Tesla & Radiant Nuclear, and am trying to make the world a better place!</h3>
 
 <p align="center">
-  I extensively use Rust, Python, and Javascript. I am also proficient in R, C#, C++, C, Java, and Assembly.
+  I extensively use Rust, Python, C#, and Javascript. I am also proficient in R, C++, C, Java, and Assembly.
 </p>
 
 <br>
