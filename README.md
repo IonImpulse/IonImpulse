@@ -1,10 +1,26 @@
 <h1 align="center">Hello, I'm Ethan!</h1>
-
-<h3 align="center">I'm a CS student at Harvey Mudd College, have interned at Tesla & Radiant Nuclear, and am trying to make the world a better place!</h3>
-
 <p align="center">
   I extensively use Rust, Python, C#, and Javascript. I am also proficient in R, C++, C, Java, and Assembly.
 </p>
+<ul>
+  <li>Computer Science @ Harvey Mudd College</li>
+  <li>Tesla Intern
+    <ul>
+      <li>Summer 2023</li>
+      <li>Factory Firmware team</li>
+      <li>Python, React, and Javascript</li>
+    </ul>
+  </li>
+  <li>Radiant Nuclear Intern
+    <ul>
+      <li>Summer 2024, extended through end of summer 2025</li>
+      <li>Software Engineering team</li>
+      <li>Typescript, React, C#, and Python</li>
+    </ul>
+  </li>
+</ul>
+
+
 
 <br>
 <p align="center">
