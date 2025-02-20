@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Ethan!</h1>
 <p align="center">
-  I extensively use Rust, Python, C#, and Javascript. I am also proficient in R, C++, C, Java, and Assembly.
+  I extensively use Rust, Python, C#, and Typescript. I am also proficient in R, C++, C, Java, and Assembly.
 </p>
 <ul>
   <li>Computer Science @ Harvey Mudd College</li>
