@@ -13,9 +13,16 @@
   </li>
   <li>Radiant Nuclear Intern
     <ul>
-      <li>Summer 2024, extended through end of summer 2025</li>
+      <li>Summer 2024, extended to December</li>
       <li>Software Engineering team</li>
       <li>Typescript, React, C#, and Python</li>
+    </ul>
+  </li>
+  <li>Radiant Nuclear Software Engineer
+    <ul>
+      <li>Promoted to salaried, full time SWE</li>
+      <li>Ownership over many projects, managing an intern over Summer 2025</li>
+      <li>Doing what need to be done to turn the reactor on :)</li>
     </ul>
   </li>
 </ul>
