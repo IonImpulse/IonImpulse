@@ -30,15 +30,12 @@
 
 
 <br>
-<p align="center">
-  <a href="#what-am-i-working-on"><b>What am I working on?</b></a> &nbsp; | &nbsp;
-  <a href="#what-am-i-maintaining"><b>What am I maintaining?</b></a> &nbsp; | &nbsp;
   <a href="#what-have-i-created"><b>What have I created?</b></a> &nbsp; | &nbsp;
   <a href="#how-do-i-use-github"><b>How do I use GitHub?</b></a>
 </p>
 <br>
 
-<h3 align="center" id="what-am-i-working-on">🏢 What am I working on?</h3>
+<h3 align="center" id="what-have-i-created">🏢 What have I created?</h3>
 
 - 📚 [5scheduler.io](https://www.5scheduler.io/), my scheduling app for the Claremont Colleges, serving over 15 million requests a month. Heavily optimized for super-fast, intelligent searching of over 2K courses. Supports custom courses, saving & sharing schedules in the cloud, automatic distance-between-classes calculation, mobile mode, and much more. Fully PWA compliant for installation and offline use. Built using JS, HTML, and CSS.
 ![5scheduler](https://user-images.githubusercontent.com/24578597/226305161-5e1c2d01-db7c-43f5-b6e0-92a638dedbd8.gif)
@@ -55,8 +52,6 @@
 
 - 🖨 [Makerspace LFP](https://github.com/Stejorin/MakerspaceLFPTool), a utility program to make printing on the Epson P8000 large format printer much easier and more user-friendly. It provides a clean web interface to intake and setup prints, and edits the binary config files for the printer to communicate exact setup parameters. Built using Python, C#, JS, HTML, and CSS.
 
-<h3 align="center" id="what-am-i-maintaining">🌉 What am I maintaining?</h3>
-
 - 🛍 [GroceryList.works](https://grocerylist.works), a super-simple, super-fast grocery list app. No login required, just share a 6-character code and have an instantly online grocery list. View added items from other devices instantly, cross them off as you shop, and delete all items you got with a single button. Built using Rust, JS, HTML, and CSS.
 
 - 🍹[Overflow.bar](https://overflow.bar), a sleek & powerful cocktail generator. Using data from 1000+ real cocktails, ingredients are put on a graph and weighted by their likelyhood to work well together. Once a base ingredient is picked, a drink is generated with 1-5 other ingredients, with an AI-generated name and image. Built using Python (FastAPI), JS, HTML, and CSS.
@@ -66,9 +61,6 @@
 - 💾 [api.5scheduler.io](https://api.5scheduler.io/fullUpdate), the backend for my scheduling app. Serves course data & saved cloud schedules with super quick response times. Built using Rust and Actix Web.
 
 - ⏰ [Blood on the Clocktower Discord Bot](https://github.com/IonImpulse/blood-on-the-clocktower-discord-bot), a Discord bot that automates the social deduction game "Blood on the Clocktower". Built using Rust and Serenity.
-
-
-<h3 align="center" id="what-have-i-created">📝 What have I created?</h3>
 
 - 💡 [Subsurface Scattering Raytracer](https://github.com/IonImpulse/SubsurfaceScattering), my final project for a computer graphics course. This raytracers takes in an STL file, positions, lights, & scales it properly, then renders out a PNG using raytracing and subsurface scattering. It leverages JIT, parallelization, and various rendering techniques to speed up rendering.
 
