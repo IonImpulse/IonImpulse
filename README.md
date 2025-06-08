@@ -22,7 +22,7 @@
     <ul>
       <li>Promoted to salaried, full time SWE</li>
       <li>Ownership over many projects, managing an intern over Summer 2025</li>
-      <li>Doing what need to be done to turn the reactor on :)</li>
+      <li>Doing what needs to be done to turn the reactor on :)</li>
     </ul>
   </li>
 </ul>
