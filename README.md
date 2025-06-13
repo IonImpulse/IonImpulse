@@ -21,7 +21,7 @@
   <li>Radiant Nuclear Software Engineer
     <ul>
       <li>Promoted to salaried, full time SWE</li>
-      <li>Ownership over many projects, managing an intern over Summer 2025</li>
+      <li>Ownership over many critical projects</li>
       <li>Doing what needs to be done to turn the reactor on :)</li>
     </ul>
   </li>
